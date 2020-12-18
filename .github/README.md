@@ -1,7 +1,7 @@
 <!-- Logo -->
 <p align="center">
   <a href="https://github.com/NAME/REPONAME">
-    <img src="images/logo.png" alt="Logo" width="100" height="100">
+    <img src="../images/logo.png" alt="Logo" width="100" height="100">
   </a>
 </p>
 
@@ -25,11 +25,11 @@
 <!-- Preview -->
 <p align="center">
   <a href="">
-    <img src="images/preview.png" width="100%"/>
+    <img src="../images/preview.png" width="100%"/>
   </a>
   <!-- Drop Shadow -->
   <a href="">
-    <img src="images/dropShadow.png" width="100%"/>
+    <img src="../images/dropShadow.png" width="100%"/>
   </a>
 </p>
 <br/>
