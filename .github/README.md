@@ -74,14 +74,16 @@ git clone https://github.com/NAME/REPONAME
 <!-- 
 > ⚠️ **NOTE**: Write a quick warning here if necessary.
 -->
-2. Open `README.md` in your preferred editor.
+2. Open `TEMPLATE.md` in your preferred editor.
 
 3. Use Search and Replace and replace the following.
 ```
 Sanjay Sunil            Replace with your fullname.
 D3VSJ@protonmail.com    Replace with your email.
+
 NAME                    Replace with your GitHub username/organisation.
 REPONAME                Replace with your GitHub repo name.
+SHORTDESCRIPTION        Replace with a short description about your repository.
 
 MIT                     Replace if you are using a different license.
 ```
