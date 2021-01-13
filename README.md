@@ -6,7 +6,7 @@
 </p>
 
 <!-- Title -->
-<h1 align="center">README</h1>
+<h1 align="center">README-Template</h1>
   <p align="center">
     The best README template to help you kickstart your GitHub Repository.
     <br />
