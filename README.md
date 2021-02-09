@@ -79,6 +79,7 @@ pip install my_module
 <!--
 > ⚠️ **NOTE**: Write a quick warning here if necessary.
 -->
+
 2. Open `README.md` in your preferred editor.
 
 3. Make changes to the README and use!
@@ -98,6 +99,12 @@ See the [open issues](https://github.com/SanjaySunil/README-Template/issues) for
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/Feature`)
+3. Commit your Changes (`git commit -m 'Added a new Feature'`)
+4. Push to the Branch (`git push origin feature/Feature`)
+5. Open a Pull Request
+
 View [translation guide]().
 
 View [contribution guide]().
@@ -106,8 +113,8 @@ View [contribution guide]().
 <!--
 ## Supporters/Contributors
 
-Show supporters of your project 
-View RepoRoster for more information 
+Show supporters of your project
+View RepoRoster for more information
 https://reporoster.com/
 
 [![Stargazers repo roster for @D3VSJ/README](https://reporoster.com/stars/D3VSJ/README)](https://github.com/D3VSJ/README/stargazers)
